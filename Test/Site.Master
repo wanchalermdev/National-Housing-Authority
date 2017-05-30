@@ -60,7 +60,7 @@
                     <div class="col-md-12">
                         <div class="navbar-header">
                             <a class="navbar-brand" runat="server" href="Default.aspx">
-                                <img src="~/Images/logo.png" width="180" runat="server" /></a>
+                                </a>
                         </div>
                         <ul class="nav navbar-nav navbar-right" >
                             <li class="dropdown ">
