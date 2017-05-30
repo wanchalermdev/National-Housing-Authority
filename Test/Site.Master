@@ -54,7 +54,7 @@
         </asp:ScriptManager>
 
 
-        <div id="mainVavbar" runat="server" class="navbar navbar-default  navbar-fixed-top">
+        <div id="mainVavbar" runat="server" style="background-color:black; color: white;" class="navbar navbar-default  navbar-fixed-top">
             <div class="" style="height: 70px; background-color: white;">
                 <div class="row">
                     <div class="col-md-12">
@@ -62,7 +62,7 @@
                             <a class="navbar-brand" runat="server" href="Default.aspx">
                                 <img src="~/Images/logo.png" width="180" runat="server" /></a>
                         </div>
-                        <ul class="nav navbar-nav navbar-right" style="background-color:black; color: white;">
+                        <ul class="nav navbar-nav navbar-right" >
                             <li class="dropdown ">
                                 <a class="dropdown-toggle" data-toggle="dropdown"><span style="color: forestgreen;" class="glyphicon glyphicon-user"></span>
                                     <asp:Label ID="SessionName" runat="server"></asp:Label>
