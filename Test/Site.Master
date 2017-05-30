@@ -83,7 +83,6 @@
             </div>
             <hr />
             <footer>
-                Hello
                 <p class="text-muted" align="center">&copy; <%: DateTime.Now.Year %> -ระบบสารสนเทศเพื่อจัดการเผยแพร่งานวิจัย Beta</p>
             </footer>
         </div>
